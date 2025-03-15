@@ -1,4 +1,4 @@
-# Lungs-disease-predictuion-using-deep-learning-with-audio-datasethttps://github.com/Udhayakumarthiyagarajan/Lungs-disease-predictuion-using-deep-learning-with-audio-dataset.git
+# Lungs-disease-predictuion-using-deep-learning-with-audio-dataset
 ABSTRACT :
 
   Prediction of respiratory diseases such as
